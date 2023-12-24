@@ -1,0 +1,12 @@
+C:\Users\progr\OneDrive\Masaüstü\Eticaret-Mini-Project\EticaretAPI\Core\EticaretAPI.Domain\bin\Debug\net6.0\EticaretAPI.Domain.deps.json
+C:\Users\progr\OneDrive\Masaüstü\Eticaret-Mini-Project\EticaretAPI\Core\EticaretAPI.Domain\bin\Debug\net6.0\EticaretAPI.Domain.dll
+C:\Users\progr\OneDrive\Masaüstü\Eticaret-Mini-Project\EticaretAPI\Core\EticaretAPI.Domain\bin\Debug\net6.0\EticaretAPI.Domain.pdb
+C:\Users\progr\OneDrive\Masaüstü\Eticaret-Mini-Project\EticaretAPI\Core\EticaretAPI.Domain\obj\Debug\net6.0\EticaretAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\progr\OneDrive\Masaüstü\Eticaret-Mini-Project\EticaretAPI\Core\EticaretAPI.Domain\obj\Debug\net6.0\EticaretAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\progr\OneDrive\Masaüstü\Eticaret-Mini-Project\EticaretAPI\Core\EticaretAPI.Domain\obj\Debug\net6.0\EticaretAPI.Domain.AssemblyInfo.cs
+C:\Users\progr\OneDrive\Masaüstü\Eticaret-Mini-Project\EticaretAPI\Core\EticaretAPI.Domain\obj\Debug\net6.0\EticaretAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\progr\OneDrive\Masaüstü\Eticaret-Mini-Project\EticaretAPI\Core\EticaretAPI.Domain\obj\Debug\net6.0\EticaretAPI.Domain.dll
+C:\Users\progr\OneDrive\Masaüstü\Eticaret-Mini-Project\EticaretAPI\Core\EticaretAPI.Domain\obj\Debug\net6.0\refint\EticaretAPI.Domain.dll
+C:\Users\progr\OneDrive\Masaüstü\Eticaret-Mini-Project\EticaretAPI\Core\EticaretAPI.Domain\obj\Debug\net6.0\EticaretAPI.Domain.pdb
+C:\Users\progr\OneDrive\Masaüstü\Eticaret-Mini-Project\EticaretAPI\Core\EticaretAPI.Domain\obj\Debug\net6.0\ref\EticaretAPI.Domain.dll
+C:\Users\progr\OneDrive\Masaüstü\Eticaret-Mini-Project\EticaretAPI\Core\EticaretAPI.Domain\obj\Debug\net6.0\EticaretAPI.Domain.csproj.AssemblyReference.cache

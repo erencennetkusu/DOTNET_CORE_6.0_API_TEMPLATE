@@ -1,0 +1,15 @@
+C:\Users\progr\OneDrive\Masaüstü\Eticaret-Mini-Project\EticaretAPI\Core\EticaretAPI.Application\bin\Debug\net6.0\EticaretAPI.Application.deps.json
+C:\Users\progr\OneDrive\Masaüstü\Eticaret-Mini-Project\EticaretAPI\Core\EticaretAPI.Application\bin\Debug\net6.0\EticaretAPI.Application.dll
+C:\Users\progr\OneDrive\Masaüstü\Eticaret-Mini-Project\EticaretAPI\Core\EticaretAPI.Application\bin\Debug\net6.0\EticaretAPI.Application.pdb
+C:\Users\progr\OneDrive\Masaüstü\Eticaret-Mini-Project\EticaretAPI\Core\EticaretAPI.Application\bin\Debug\net6.0\EticaretAPI.Domain.dll
+C:\Users\progr\OneDrive\Masaüstü\Eticaret-Mini-Project\EticaretAPI\Core\EticaretAPI.Application\bin\Debug\net6.0\EticaretAPI.Domain.pdb
+C:\Users\progr\OneDrive\Masaüstü\Eticaret-Mini-Project\EticaretAPI\Core\EticaretAPI.Application\obj\Debug\net6.0\EticaretAPI.Application.csproj.AssemblyReference.cache
+C:\Users\progr\OneDrive\Masaüstü\Eticaret-Mini-Project\EticaretAPI\Core\EticaretAPI.Application\obj\Debug\net6.0\EticaretAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\progr\OneDrive\Masaüstü\Eticaret-Mini-Project\EticaretAPI\Core\EticaretAPI.Application\obj\Debug\net6.0\EticaretAPI.Application.AssemblyInfoInputs.cache
+C:\Users\progr\OneDrive\Masaüstü\Eticaret-Mini-Project\EticaretAPI\Core\EticaretAPI.Application\obj\Debug\net6.0\EticaretAPI.Application.AssemblyInfo.cs
+C:\Users\progr\OneDrive\Masaüstü\Eticaret-Mini-Project\EticaretAPI\Core\EticaretAPI.Application\obj\Debug\net6.0\EticaretAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\progr\OneDrive\Masaüstü\Eticaret-Mini-Project\EticaretAPI\Core\EticaretAPI.Application\obj\Debug\net6.0\EticaretAPI.Application.csproj.CopyComplete
+C:\Users\progr\OneDrive\Masaüstü\Eticaret-Mini-Project\EticaretAPI\Core\EticaretAPI.Application\obj\Debug\net6.0\EticaretAPI.Application.dll
+C:\Users\progr\OneDrive\Masaüstü\Eticaret-Mini-Project\EticaretAPI\Core\EticaretAPI.Application\obj\Debug\net6.0\refint\EticaretAPI.Application.dll
+C:\Users\progr\OneDrive\Masaüstü\Eticaret-Mini-Project\EticaretAPI\Core\EticaretAPI.Application\obj\Debug\net6.0\EticaretAPI.Application.pdb
+C:\Users\progr\OneDrive\Masaüstü\Eticaret-Mini-Project\EticaretAPI\Core\EticaretAPI.Application\obj\Debug\net6.0\ref\EticaretAPI.Application.dll

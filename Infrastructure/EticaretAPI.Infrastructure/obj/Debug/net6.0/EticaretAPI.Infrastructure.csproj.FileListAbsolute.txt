@@ -1,0 +1,17 @@
+C:\Users\progr\OneDrive\Masaüstü\Eticaret-Mini-Project\EticaretAPI\Infrastructure\EticaretAPI.Infrastructure\bin\Debug\net6.0\EticaretAPI.Infrastructure.deps.json
+C:\Users\progr\OneDrive\Masaüstü\Eticaret-Mini-Project\EticaretAPI\Infrastructure\EticaretAPI.Infrastructure\bin\Debug\net6.0\EticaretAPI.Infrastructure.dll
+C:\Users\progr\OneDrive\Masaüstü\Eticaret-Mini-Project\EticaretAPI\Infrastructure\EticaretAPI.Infrastructure\bin\Debug\net6.0\EticaretAPI.Infrastructure.pdb
+C:\Users\progr\OneDrive\Masaüstü\Eticaret-Mini-Project\EticaretAPI\Infrastructure\EticaretAPI.Infrastructure\bin\Debug\net6.0\EticaretAPI.Application.dll
+C:\Users\progr\OneDrive\Masaüstü\Eticaret-Mini-Project\EticaretAPI\Infrastructure\EticaretAPI.Infrastructure\bin\Debug\net6.0\EticaretAPI.Domain.dll
+C:\Users\progr\OneDrive\Masaüstü\Eticaret-Mini-Project\EticaretAPI\Infrastructure\EticaretAPI.Infrastructure\bin\Debug\net6.0\EticaretAPI.Application.pdb
+C:\Users\progr\OneDrive\Masaüstü\Eticaret-Mini-Project\EticaretAPI\Infrastructure\EticaretAPI.Infrastructure\bin\Debug\net6.0\EticaretAPI.Domain.pdb
+C:\Users\progr\OneDrive\Masaüstü\Eticaret-Mini-Project\EticaretAPI\Infrastructure\EticaretAPI.Infrastructure\obj\Debug\net6.0\EticaretAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\progr\OneDrive\Masaüstü\Eticaret-Mini-Project\EticaretAPI\Infrastructure\EticaretAPI.Infrastructure\obj\Debug\net6.0\EticaretAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\progr\OneDrive\Masaüstü\Eticaret-Mini-Project\EticaretAPI\Infrastructure\EticaretAPI.Infrastructure\obj\Debug\net6.0\EticaretAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\progr\OneDrive\Masaüstü\Eticaret-Mini-Project\EticaretAPI\Infrastructure\EticaretAPI.Infrastructure\obj\Debug\net6.0\EticaretAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\progr\OneDrive\Masaüstü\Eticaret-Mini-Project\EticaretAPI\Infrastructure\EticaretAPI.Infrastructure\obj\Debug\net6.0\EticaretAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\progr\OneDrive\Masaüstü\Eticaret-Mini-Project\EticaretAPI\Infrastructure\EticaretAPI.Infrastructure\obj\Debug\net6.0\EticaretAPI.Infrastructure.csproj.CopyComplete
+C:\Users\progr\OneDrive\Masaüstü\Eticaret-Mini-Project\EticaretAPI\Infrastructure\EticaretAPI.Infrastructure\obj\Debug\net6.0\EticaretAPI.Infrastructure.dll
+C:\Users\progr\OneDrive\Masaüstü\Eticaret-Mini-Project\EticaretAPI\Infrastructure\EticaretAPI.Infrastructure\obj\Debug\net6.0\refint\EticaretAPI.Infrastructure.dll
+C:\Users\progr\OneDrive\Masaüstü\Eticaret-Mini-Project\EticaretAPI\Infrastructure\EticaretAPI.Infrastructure\obj\Debug\net6.0\EticaretAPI.Infrastructure.pdb
+C:\Users\progr\OneDrive\Masaüstü\Eticaret-Mini-Project\EticaretAPI\Infrastructure\EticaretAPI.Infrastructure\obj\Debug\net6.0\ref\EticaretAPI.Infrastructure.dll
